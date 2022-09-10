@@ -1,5 +1,6 @@
 
 Netflix-UI Clone 
+-----------------------------------------------------------------------------------
 
 Tutorial from - https://www.thisdot.co/blog/how-to-create-netflix-clone-with-react-js-tailwind-css-and-styled-components
 
@@ -10,7 +11,6 @@ ReactJS
 Axios
 
 Styled Components
--------------------------------------------------------------------------------------------------------------------------- 
 
 # Getting Started with Create React App
 
